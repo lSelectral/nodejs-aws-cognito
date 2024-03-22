@@ -1,0 +1,13 @@
+build/*
+dist/*
+public/*
+.next/*
+node_modules/*
+package.json
+*.log
+.htaccess
+*.yml
+*.yaml
+
+# Ignore src/model/**.js
+src/model/**/*.js
